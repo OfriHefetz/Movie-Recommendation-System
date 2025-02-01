@@ -21,6 +21,5 @@ Take a look at the notebook to uncover all the things we have done!🌈
 ## Repository Structure
 In this repository, you will find the following files:
 1. **RecSys_Final:** This is the main notebook that contains all the code for the final prediction model. It includes data preprocessing, model training, and evaluation steps, providing a comprehensive solution to the competition challenge.
-2. **EDA_RecSys_Competetion:** This notebook is dedicated to Exploratory Data Analysis. It contains visualizations, statistics, and initial analyses that help readers understand the dataset and the relationships between different features, which is crucial for building a robust recommendation system.
-3. **Presentation:** This presentation was shown during the class to explain our approach to solving the competition. It covers only the main parts of the solution, as it was designed for an audience familiar with the competition and its objectives. The slides provide a high-level overview of the methodology, key results, and challenges.
-
+2. **EDA_RecSys_Competetion:** This notebook is dedicated to Exploratory Data Analysis. It contains visualizations, statistics, and initial analysis. 
+3. **Presentation:** This presentation was shown during the class to explain our approach to solving the competition. It covers only the main parts of the solution, as it was designed for an audience familiar with the competition and its objectives.
