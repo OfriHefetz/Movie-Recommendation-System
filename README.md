@@ -1,10 +1,10 @@
-# Movie-Recommendation-System
+# 🍿 Movie-Recommendation-System 🍿
 
 ## Introduction
 This repository showcases our solution for the Recommendation System Kaggle competition 🏆, where we achieved fourth place. 
 This competition aims to predict user movie ratings using a modified version of the MovieLens 32M dataset 🎬.
 
-Here is the link to the competition: https://www.kaggle.com/competitions/recsys-runi-2025/overview
+Here is the link to the competition: https://www.kaggle.com/competitions/recsys-runi-2025/overview 📽
 
 
 ## Problem Statement:
